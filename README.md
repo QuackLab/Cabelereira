@@ -46,5 +46,23 @@ Os pagamento podem ser feitos em cartões de débito e crédito, Pix e dinheiro.
 
   ## Para clonar o projeto:
   <br>
-  - Aqui em cima do repositório, clica em 'Code':
+  Aqui em cima do repositório, clica em 'Code':
+  <br>
   <img src="https://ibb.co/q01kSYR">
+  <br>
+  Depois clica em HTTPS e copia o código:
+  <br>
+  <img src="https://ibb.co/D8jxJjB">
+  <br>
+  Abra o VSCode em uma pasta de sua escolha, abra o terminal (CTRL + J) e clone o projeto:
+  
+  ```shell
+  git clone <código copiado do repositório>
+  ```
+
+  No terminal, entre dentro da pasta que você clonou:
+  ```shell
+  cd Cabelereira
+  ```
+
+  Altere o arquivo, criando um index.html, por exemplo, e dê um push no repositório para ver se está tudo certo!!
