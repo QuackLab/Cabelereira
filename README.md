@@ -82,7 +82,7 @@ Entenda que agora o 'origin' está apontando para o repositório que você clono
 
   Se você der o push no 'origin', irá para o repositório clonado. Se der o push no 'github', irá para o repositório que você criou no seu perfil.
 
-  Então, quando você dar um push, digite:
+  Então, quando você der um push, digite:
   ```
     git push -u github master
   ```
