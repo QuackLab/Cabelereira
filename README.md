@@ -5,7 +5,6 @@ Olá, amiga Manu!
 Fechei um projeto com uma cliente de uma Landing Page simples. O nome dela é Lúcia Valentim, ela tem um salão de beleza chamado Lu Valentim Studio. Ela nos encomendou um site estático, não responsivo e insistiu para que as cores do site fossem harmônicas. Se não estiver inspirada, pode dar uma olhada no https://coolors.co/palettes/trending .
 <br>
 - Ela quer que tenha um campo para enviar uma mensagem, tipo um formulário. 
-<br>
 - Quer também um botão que quando clicado leve ao WhatApp. 
 - Ela nos enviou uma pasta de fotos que está aqui anexada no projeto. Disse que não é necessário usar todas, é só pra nos ajudar.
 - Falou que nessa pasta há uma logo antiga que gostaria de mudar mas que, por enquanto,  pretende utilizar (ela não espera que a gente também faça papel de design, né?!).
