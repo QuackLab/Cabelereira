@@ -67,7 +67,7 @@ Os pagamento podem ser feitos em cartões de débito e crédito, Pix e dinheiro.
   <br>
 ** Entenda que agora o 'origin' está apontando para o repositório que você clonou. Por isso, você terá de dar outro nome ao seu remote.
 - Digite:
-  ```shell
+  ```
     git remote add github <código que você copiou do seu repositório criado>
 
     // Depois digite:
@@ -76,13 +76,13 @@ Os pagamento podem ser feitos em cartões de débito e crédito, Pix e dinheiro.
 
     // Veja que haverá dois remotes, o origin e o github.
   ```
-  
+
   <br>
 
   Se você der o push no 'origin', irá para o repositório clonado. Se der o push no 'github', irá para o repositório que você criou no seu perfil.
 
   Então, quando você dar um push, digite:
-  ```shell
+  ```
     git push -u github master
   ```
 
