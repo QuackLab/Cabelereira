@@ -46,13 +46,9 @@ Os pagamento podem ser feitos em cartões de débito e crédito, Pix e dinheiro.
 
   ## Para clonar o projeto:
   <br>
-  Aqui em cima do repositório, clica em 'Code':
+  Aqui em cima do repositório, clica em 'Code'. Depois clica em HTTPS e copia o código:
   <br>
-  <img src="https://ibb.co/q01kSYR">
-  <br>
-  Depois clica em HTTPS e copia o código:
-  <br>
-  <img src="https://ibb.co/D8jxJjB">
+  <img src="https://i.ibb.co/cCsGBsW/Captura-de-tela-de-2023-11-14-08-36-16.png">
   <br>
   Abra o VSCode em uma pasta de sua escolha, abra o terminal (CTRL + J) e clone o projeto:
   
@@ -65,4 +61,26 @@ Os pagamento podem ser feitos em cartões de débito e crédito, Pix e dinheiro.
   cd Cabelereira
   ```
 
-  Altere o arquivo, criando um index.html, por exemplo, e dê um push no repositório para ver se está tudo certo!!
+ A partir daqui, faça tudo como você fez nos outros repositórios:
+ - Cria um repositório novo no seu perfil.
+ - Copia o código do repositório.
+  <br>
+** Entenda que agora o 'origin' está apontando para o repositório que você clonou. Por isso, você terá de dar outro nome ao seu remote.
+- Digite:
+  ```shell
+    git remote add github <código que você copiou do seu repositório criado>
+
+    // Depois digite:
+
+    git remote
+
+    // Veja que haverá dois remotes, o origin e o github.
+  ```
+  <br>
+  Se você der o push no 'origin', irá para o repositório clonado. Se der o push no 'github', irá para o repositório que você criou no seu perfil.
+
+  Então, quando você dar um push, digite:
+  ```shell
+    git push -u github master
+  ```
+
