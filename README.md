@@ -65,8 +65,9 @@ Os pagamento podem ser feitos em cartões de débito e crédito, Pix e dinheiro.
  - Cria um repositório novo no seu perfil.
  - Copia o código do repositório.
   <br>
-** Entenda que agora o 'origin' está apontando para o repositório que você clonou. Por isso, você terá de dar outro nome ao seu remote.
-- Digite:
+
+Entenda que agora o 'origin' está apontando para o repositório que você clonou. Por isso, você terá de dar outro nome ao seu remote. Digite:
+
   ```
     git remote add github <código que você copiou do seu repositório criado>
 
