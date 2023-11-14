@@ -37,3 +37,14 @@ Os pagamento podem ser feitos em cartões de débito e crédito, Pix e dinheiro.
 
   <!-- Exemplo: https://wa.me/5581991234567-->
   ```
+
+<br>
+
+  ----------
+
+  # ATENÇÃO!!
+
+  ## Para clonar o projeto:
+  <br>
+  - Aqui em cima do repositório, clica em 'Code':
+  <img src="https://ibb.co/q01kSYR">
